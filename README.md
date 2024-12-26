@@ -7,3 +7,6 @@ My data science and analytics projects
 3. R programming
 4. Looker GA4 Dashboard
 5. Linear regression Model using caret
+
+## Contact me
+reach out to me at ritthida.pang@gmail.com
